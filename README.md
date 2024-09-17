@@ -21,8 +21,10 @@ To use the Tabs project:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://gitlab.com/Yashi-Singh-9/tabs.git
-   cd tabs
+   git clone https://github.com/Yashi-Singh-9/Tabs.git
+   ```
+   ```
+   cd Tabs
    ```
 
 2. **Open the Project**
@@ -37,7 +39,7 @@ No additional installation or dependencies are required. The project is a static
 
 ## Support
 
-For support, please open an issue on the [GitLab Issues](https://gitlab.com/Yashi-Singh-9/tabs/-/issues) page or contact [LinkedIn](https://www.linkedin.com/in/yashi-singh-b4143a246).
+For support, please open an issue on the [GitLab Issues](https://github.com/Yashi-Singh-9/Tabs/-/issues) page or contact [LinkedIn](https://www.linkedin.com/in/yashi-singh-b4143a246).
 
 ## Roadmap
 
